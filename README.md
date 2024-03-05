@@ -1,5 +1,5 @@
 # Specifiche progetto per l’esame di Applicazioni dinamiche per il Web per l’anno accademico 2022/2023
-*Elisa Acciari VR478828,  Giulio Cappelletti VR478827 A.A. 2022/2023
+*Elisa Acciari,  Giulio Cappelletti A.A. 2022/2023
 Università degli Studi di Verona.*
 
 Considerate la base di dati disponibile all’indirizzo https://www.postgresqltutorial.com/postgresql-getting-started/postgresql-sample-database/ che contiene tabelle e dati di esempio per la gestione di un noleggio di DVD in diversi punti vendita (store). 
