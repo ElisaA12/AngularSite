@@ -17,7 +17,7 @@ Circa gli utenti, l’applicazione deve, in una base di dati separata, gestire g
 
 Ulteriori richieste di progetto: 
  1. Il gruppo di sviluppo deve essere di 2-3 studenti in cui le responsabilità di progetto devono essere ben definite. 
- 2. Il DBMS deve essere PostregSQL ≥ 14. A tal riguardo, una volta scaricato l’archivio e seguite le istruzioni circa il \$\$PATH\$\$ nel file restore.sql, sempre nello stesso file cancellate le direttive LC\_COLLATE = ’English\_United States.1252’ LC\_CTYPE = ’English\_United States.1252’; prima di fare il restore. Il restore avviene senza warning se si usa PostregSQL ≥ 14.
+ 2. Il DBMS deve essere PostregSQL ≥ 14. A tal riguardo, una volta scaricato l’archivio e seguite le istruzioni circa il PATH nel file restore.sql, sempre nello stesso file cancellate le direttive LC\_COLLATE = ’English\_United States.1252’ LC\_CTYPE = ’English\_United States.1252’; prima di fare il restore. Il restore avviene senza warning se si usa PostregSQL ≥ 14.
  3. Il lato server deve usare GraphQL per realizzare i microservizi di aggiornamento base di dati.
  4. Il lato client deve essere Angular (ultima versione in https://angular.io) 
  5. L’applicazione deve essere accessibile anche via tablet o smartphone (usare CSS per rendere responsive). 
